@@ -55,7 +55,7 @@ public:
 
     void deposit() {
         double amount;
-        cout << "Enter amount to deposit: ";
+        cout << "Enter amount to Deposit: ";
         cin >> amount;
         balance += amount;
         cout << "Deposit successful!\n";
